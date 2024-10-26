@@ -1,3 +1,5 @@
+# videott
+
 This is a [Next.js](https://nextjs.org) project that I will be using to experiment with some AI tools.
 
 ## Getting Started
